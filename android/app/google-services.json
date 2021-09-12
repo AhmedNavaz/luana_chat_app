@@ -14,11 +14,11 @@
       },
       "oauth_client": [
         {
-          "client_id": "549508060036-15f5jj3d8tusgpnprg73j83el3vggld0.apps.googleusercontent.com",
+          "client_id": "549508060036-n6egn6im0dj4j5lbd2gf3vs7v69910sf.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.example.luana_chat_app",
-            "certificate_hash": "e43bb9337d27cc433eb306ea4dc8bcc86df38549"
+            "certificate_hash": "8ee94d8d45d0792885c83415799c0dc96756d3e3"
           }
         },
         {

@@ -1,4 +1,3 @@
-import 'package:camera_camera/camera_camera.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
 import 'dart:async';
@@ -96,13 +95,6 @@ class _MatchScreenState extends State<MatchScreen> {
                   height: 250,
                   width: 150,
                   color: Colors.red,
-                  child: CameraCamera(
-                    enableAudio: false,
-                    flashModes: [FlashMode.off],
-                    cameraSide: CameraSide.back,
-                    enableZoom: false,
-                    onFile: (file) {},
-                  ),
                 ),
               ],
             ),

@@ -37,7 +37,6 @@ dependencies:
   flutter_facebook_login: ^3.0.0
   agora_rtc_engine: ^4.0.6
   permission_handler: ^8.1.4+2
-  camera_camera: ^2.0.2
   flutter_countdown_timer: ^4.1.0
 
 dev_dependencies:

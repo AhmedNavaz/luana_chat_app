@@ -2,7 +2,6 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:luana_chat_app/controllers/auth_controller.dart';
-import 'package:luana_chat_app/views/video_call/camera.dart';
 import 'package:luana_chat_app/views/video_call/index.dart';
 import 'package:luana_chat_app/views/video_call/match_screen.dart';
 
